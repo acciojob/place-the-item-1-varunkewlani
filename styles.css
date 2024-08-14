@@ -1,2 +1,46 @@
 
 /* Your CSS Code here. */
+.blue
+{
+	height:50px;
+	width:50px;
+	background-color:blue;
+	margin:20px;
+}
+.item
+{
+	height:50px;
+	width:50px;
+	background-color:green;
+	margin:20px;
+}
+.red
+{
+	height:50px;
+	width:50px;
+	background-color:red;
+	margin:20px;
+}
+.holder1
+{
+	display:flex;
+	flex-direction:row;
+}
+.holder1
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.holder2
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+#holder3
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
